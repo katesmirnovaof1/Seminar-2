@@ -24,4 +24,11 @@
     + Социальные приложения:
     + Discord — приложение для публичного общения.
     + Steemit — социальная сеть, основанная на блокчейне.
-    ![](http://sidorovka.blogspot.ru/2016/06/blog-post.html)
+#### Таблица
+ 1|2
+ ---|:---:
+ разработчик| Джон Грубер
+ опубликован| 2004-03-19
+ сайт| <https://daringfireball.net/projects/markdown/>
+ #### Markdown syntax
+![](https://upload.wikimedia.org/wikipedia/commons/9/94/Markdown_Syntax_in_gedit.png)
